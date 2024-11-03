@@ -8,6 +8,7 @@ mov 1, 1
 end
 ```
 I get the following output :
+
 ![image](https://github.com/user-attachments/assets/178e95bf-19b9-4368-9f87-141eb1518505)
 
  ## Flag :
