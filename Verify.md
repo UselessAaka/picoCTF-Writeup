@@ -1,7 +1,7 @@
 ## Verify
 
 After connecting to ssh and then using password to connect to the challenge we can start.
-First I read what is given in `checksum.txt` file and after that using the hints I run the command to check all the files using the command `sha256sum files/*` and now to find the checksum given to us :
+First I read what is given in `checksum.txt` file and after that using the hints I run the command to check all the files using the command `sha256sum files/*` (also to know more about [sha256](https://www.geeksforgeeks.org/generating-an-sha-256-hash-from-the-command-line/)) now to find the checksum given to us :
 
 ` > b09c99c555e2b39a7e97849181e8996bc6a62501f0149c32447d8e65e205d6d2`
 
