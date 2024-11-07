@@ -1,6 +1,6 @@
 ## Ready Gladiator 0
 
-First i learnt about CoreWars since i had no idea about it at [Wikipedia](https://en.wikipedia.org/wiki/Core_War).
+First i learnt about CoreWars since i had no idea about it at [Wikipedia](https://en.wikipedia.org/wiki/Core_War). We will read the imp.red file given to us and modify it a bit as given below.
 Then i used the following commands to defeat it:
 ```
 ;redcode
