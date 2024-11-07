@@ -3,6 +3,8 @@
 First i learnt about CoreWars since i had no idea about it at [Wikipedia](https://en.wikipedia.org/wiki/Core_War).
 Then i used the following commands to defeat it:
 ```
+;redcode
+;name Imp Ex
 ;assert 1
 mov 1, 1
 end
